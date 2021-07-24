@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CreateSequence:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreateSequence_jar</output-path>
+    <root id="archive" name="CreateSequence.jar">
+      <element id="module-output" name="CreateSequence" />
+    </root>
+  </artifact>
+</component>
